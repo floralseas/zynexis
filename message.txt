@@ -9754,17 +9754,11 @@ alibis
 alible
 alicant
 alicants
-alice
-alichel
 alichino
-alicia
 alick
 alicoche
 alicorn
 alicorns
-alictisal
-alicula
-aliculae
 alicyclic
 alida
 alidad
@@ -11031,7 +11025,6 @@ aloofnesses
 aloos
 aloose
 alop
-alopathic
 alopecia
 alopecias
 alopecic
@@ -13432,7 +13425,6 @@ amusiveness
 amusivenesses
 amutter
 amuyon
-amuyong
 amuze
 amuzzle
 amvis
@@ -16427,9 +16419,6 @@ anorthosite
 anorthosites
 anorthositic
 anoscope
-sonion
-sioniongring
-pfriedchicken
 anoscopy
 anosia
 anosmatic
@@ -22828,7 +22817,6 @@ archosaurians
 archosaurs
 archostegnosis
 archostenosis
-archosyrinx
 archoverseer
 archpall
 archpapist
@@ -23659,7 +23647,6 @@ arizonians
 arizonite
 arjun
 ark
-arkab
 arkansan
 arkansans
 arkansas
@@ -371740,7 +371727,6 @@ soffioni
 soffit
 soffits
 soffritto
-sofia
 sofkee
 sofoklis
 sofrito
@@ -461880,8 +461866,7 @@ xeroxes
 xeroxing
 xerus
 xeruses
-xhosa
-	
+xhosa	
 xiangqi
 xiaolongbao
 xiaolongbaos
